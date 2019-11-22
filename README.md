@@ -1,6 +1,6 @@
-# TitanicDisasterSurvival_CatboostRegressor
+# TitanicDisasterSurvival_Catboost
 Here will use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-The mdoel is build using CatboostRegressor - A machine learning library to handle categorical (CAT) data automatically
+The mdoel is build using Catboost - A machine learning library to handle categorical (CAT) data automatically
 
 
 What is CatBoost?  ref - #https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/
